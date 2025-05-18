@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Nyxon 👋</h1>
+<p align="center">
+  Solo Developer behind <strong>WebFlux</strong><br>
+  Building fast, modern, and functional templates for developers.
+</p>
 
-<!--
-**MixnUP/MixnUP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🧑‍💻 Frontend Engineer focused on **React**, **TypeScript**, **Tailwind CSS**
+- ⚡ Founder of **Nyxon**, and creator of **WebFlux**
+- 🚀 Passionate about crafting **pixel-perfect**, **accessible**, and **scalable** UIs
+- 🎯 Constantly learning and sharing through open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+```ts
+React • TypeScript • TailwindCSS • Firebase • Framer Motion • Vite
+```
+
+---
+
+### 🚀 Projects Worth Checking
+- 🧩 [WebFlux (Live)](https://webflux.dev) – Marketplace for dev templates
+- 📦 [React + Vite Starter](https://github.com/MixnUP/react-vite-starter)
+- 🔐 [Auth Boilerplate w/ Firebase](https://github.com/MixnUP/firebase-auth-template)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MixnUP&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MixnUP&theme=github-dark" />
+</p>
+
+---
+
+### 🧭 Let's Connect
+[Website](https://nyxon.dev) • [Twitter](https://twitter.com/yourhandle) • [LinkedIn](https://linkedin.com/in/yourhandle)
