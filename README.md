@@ -44,4 +44,5 @@ Cloudflare Workers & AI APIs
 ---
 
 ### 🧭 Connect with Me
-[Portfolio](https://nyxon.dev) • [LinkedIn](https://www.linkedin.com/in/adriane-loquinte-57087a264)
+[Portfolio](https://nyxon.dev) • [LinkedIn](https://www.linkedin.com/in/adriane-loquinte-57087a264) • [Email](mailto:adriane.loquinte@gmail.com)
+
