@@ -1,30 +1,37 @@
 <h1 align="center">Hey, I'm Adriane 👋</h1>
 <p align="center">
-  Solo Developer behind <strong>WebFlux</strong><br>
-  Building fast, modern, and functional templates for developers.
+  Computer Engineering student & aspiring Full-Stack Developer<br>
+  Passionate about building modern, scalable, and impactful applications.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🧑‍💻 Frontend Engineer focused on **React**, **TypeScript**, **Tailwind CSS**
-- ⚡ Founder of **Nyxon**, and creator of **WebFlux**
-- 🚀 Passionate about crafting **pixel-perfect**, **accessible**, and **scalable** UIs
-- 🎯 Constantly learning and sharing through open source
+- 🎓 Computer Engineering student at **USTP** (expected 2025)  
+- 💻 Hands-on in **web, mobile, and embedded systems**  
+- ⚡ Skilled in modern frameworks: **React, Node.js, Firebase, Streamlit**  
+- 🔬 Experience with **IoT, AI/ML, and cloud-based solutions**  
+- 📚 Strong background in **system design, UI/UX, and technical documentation**  
 
 ---
 
 ### 🔧 Tech Stack
 ```ts
-React • TypeScript • TailwindCSS • Firebase • Framer Motion • Vite
+Java • Python • JavaScript/TypeScript • C/C++
+React • React Native • Node.js • Express
+Firebase (Auth, Firestore, RTDB, Storage)
+TailwindCSS • shadcn/ui • NativeWind
+Arduino • ESP32 • Raspberry Pi
+Cloudflare Workers & AI APIs
 ```
 
 ---
 
-### 🚀 Projects Worth Checking
-- 🧩 [WebFlux (Live)](https://webflux.dev) – Marketplace for dev templates
-- 📦 [React + Vite Starter](https://github.com/MixnUP/react-vite-starter)
-- 🔐 [Auth Boilerplate w/ Firebase](https://github.com/MixnUP/firebase-auth-template)
+### 🚀 Featured Projects
+- 🪖 **Helmet Management System** – Real-time check-in/out tracking using React + Firebase (RTDB + Firestore)  
+- 🌍 **EA-WCD (Environmental & Urban Change Detection)** – Streamlit + Cloudflare AI model for spectral-spatial analysis (NDVI, NDBI, Sobel, HSVF)  
+- 🤖 **Internum AI Interview Platform** – Cloudflare Workers backend + AI-driven dynamic interview system  
+- 🎨 **Freelance Brand Design** – Delivered logos, UI kits, and digital content for local businesses  
 
 ---
 
@@ -36,5 +43,5 @@ React • TypeScript • TailwindCSS • Firebase • Framer Motion • Vite
 
 ---
 
-### 🧭 Let's Connect
-[Website](https://nyxon.dev) • [Twitter](https://twitter.com/yourhandle) • [LinkedIn](https://linkedin.com/in/yourhandle)
+### 🧭 Connect with Me
+[Portfolio](https://nyxon.dev) • [GitHub](https://github.com/MixnUP) • [LinkedIn](https://linkedin.com/in/yourhandle)
