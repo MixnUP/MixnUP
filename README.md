@@ -27,14 +27,6 @@ Cloudflare Workers & AI APIs
 
 ---
 
-### 🚀 Featured Projects
-- 🪖 **Helmet Management System** – Real-time check-in/out tracking using React + Firebase (RTDB + Firestore)  
-- 🌍 **EA-WCD (Environmental & Urban Change Detection)** – Streamlit + Cloudflare AI model for spectral-spatial analysis (NDVI, NDBI, Sobel, HSVF)  
-- 🤖 **Internum AI Interview Platform** – Cloudflare Workers backend + AI-driven dynamic interview system  
-- 🎨 **Freelance Brand Design** – Delivered logos, UI kits, and digital content for local businesses  
-
----
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MixnUP&show_icons=true&theme=github_dark" />
