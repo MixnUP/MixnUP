@@ -1,9 +1,7 @@
-```html
-<h1 align="center">Hey, I'm Adriane 👋</h1>
-<p align="center">
+
+### Hey, I'm Adriane 👋
+
 Full-Stack Developer with a Computer Engineering background, focused on building scalable web, mobile, embedded, and IoT-driven systems. Experienced in modern frontend frameworks, backend/cloud architectures, and hardware-integrated applications, with practical exposure to AI-assisted solutions and academic research projects.
-</p>
-```
 
 ---
 
