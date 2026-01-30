@@ -1,7 +1,6 @@
 <h1 align="center">Hey, I'm Adriane 👋</h1>
 <p align="center">
-  Computer Engineering student & aspiring Full-Stack Developer<br>
-  Passionate about building modern, scalable, and impactful applications.
+Full-Stack Developer with a Computer Engineering background and extensive experience in web, mobile, and embedded systems. Proficient in modern frameworks (React, Node.js, Firebase), hardware platforms (Arduino, ESP32, Raspberry Pi), and applied AI/ML. Strong background in building IoT and cloud-based solutions, academic research projects, and scalable applications.
 </p>
 
 ---
