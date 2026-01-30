@@ -19,10 +19,10 @@
 ```ts
 Java • Python • JavaScript/TypeScript • C/C++
 React • React Native • Node.js • Express
-Firebase (Auth, Firestore, RTDB, Storage)
+Firebase (Auth, Firestore, RTDB, Storage, Functions)
 TailwindCSS • shadcn/ui • NativeWind
 Arduino • ESP32 • Raspberry Pi
-Cloudflare Workers & AI APIs
+Cloudflare Workers & AI APIs & Cron
 ```
 
 ---
