@@ -12,11 +12,6 @@ Full-Stack Developer with a Computer Engineering background, focused on building
 * 🔬 Hands-on with **IoT systems, embedded hardware, and AI-assisted solutions**
 * 📚 Strong foundation in **system design, UI/UX, and technical documentation**
 
-> Why this works:
-> • No buzzword dumping
-> • Each bullet adds *new* information
-> • Academic + practical experience clearly separated but connected
-
 ---
 
 ### 🔧 Tech Stack
