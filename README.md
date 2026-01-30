@@ -42,11 +42,6 @@ Cloudflare Workers • AI APIs • Cron
 Arduino • ESP32 • Raspberry Pi
 ```
 
-> Why this works:
-> • Grouped by **domain**, not random tech lists
-> • Easier to scan for recruiters & collaborators
-> • Shows you’re not just a “React dev” — you’re a systems builder
-
 ---
 
 ### 📈 GitHub Stats
@@ -64,5 +59,3 @@ Arduino • ESP32 • Raspberry Pi
 [LinkedIn](https://www.linkedin.com/in/adriane-loquinte-57087a264) •
 [Email](mailto:adriane.loquinte@gmail.com)
 
-
-Just say the word.
