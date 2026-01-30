@@ -6,9 +6,8 @@ Full-Stack Developer with a Computer Engineering background and extensive experi
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Computer Engineering student at **USTP** (expected 2025)  
 - 💻 Hands-on in **web, mobile, and embedded systems**  
-- ⚡ Skilled in modern frameworks: **React, Node.js, Firebase, Streamlit**  
+- ⚡ Skilled in modern frameworks: **React, Node.js, Firebase, Cloudflare**  
 - 🔬 Experience with **IoT, AI/ML, and cloud-based solutions**  
 - 📚 Strong background in **system design, UI/UX, and technical documentation**  
 
