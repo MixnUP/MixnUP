@@ -1,31 +1,63 @@
+```html
 <h1 align="center">Hey, I'm Adriane 👋</h1>
 <p align="center">
-Full-Stack Developer with a Computer Engineering background and extensive experience in web, mobile, and embedded systems. Proficient in modern frameworks (React, Node.js, Firebase), hardware platforms (Arduino, ESP32, Raspberry Pi), and applied AI/ML. Strong background in building IoT and cloud-based solutions, academic research projects, and scalable applications.
+Full-Stack Developer with a Computer Engineering background, focused on building scalable web, mobile, embedded, and IoT-driven systems. Experienced in modern frontend frameworks, backend/cloud architectures, and hardware-integrated applications, with practical exposure to AI-assisted solutions and academic research projects.
 </p>
-
----
-
-### 👨‍💻 About Me
-- 💻 Hands-on in **web, mobile, and embedded systems**  
-- ⚡ Skilled in modern frameworks: **React, Node.js, Firebase, Cloudflare**  
-- 🔬 Experience with **IoT, AI/ML, and cloud-based solutions**  
-- 📚 Strong background in **system design, UI/UX, and technical documentation**  
-
----
-
-### 🔧 Tech Stack
-```ts
-Java • Python • JavaScript/TypeScript • C/C++
-React • React Native • Node.js • Express
-Firebase (Auth, Firestore, RTDB, Storage, Functions)
-TailwindCSS • shadcn/ui • NativeWind
-Arduino • ESP32 • Raspberry Pi
-Cloudflare Workers & AI APIs & Cron
 ```
 
 ---
 
+### 👨‍💻 About Me
+
+* 💻 Build **end-to-end systems** across web, mobile, embedded, and IoT
+* ⚡ Develop scalable apps using **React, Node.js, Firebase, Cloudflare**
+* 🔬 Hands-on with **IoT systems, embedded hardware, and AI-assisted solutions**
+* 📚 Strong foundation in **system design, UI/UX, and technical documentation**
+
+> Why this works:
+> • No buzzword dumping
+> • Each bullet adds *new* information
+> • Academic + practical experience clearly separated but connected
+
+---
+
+### 🔧 Tech Stack
+
+**Languages**
+
+```ts
+Java • Python • JavaScript / TypeScript • C / C++
+```
+
+**Frontend & Mobile**
+
+```ts
+React • React Native • TailwindCSS • shadcn/ui • NativeWind
+```
+
+**Backend & Cloud**
+
+```ts
+Node.js • Express
+Firebase (Auth, Firestore, RTDB, Storage, Functions)
+Cloudflare Workers • AI APIs • Cron
+```
+
+**Embedded & IoT**
+
+```ts
+Arduino • ESP32 • Raspberry Pi
+```
+
+> Why this works:
+> • Grouped by **domain**, not random tech lists
+> • Easier to scan for recruiters & collaborators
+> • Shows you’re not just a “React dev” — you’re a systems builder
+
+---
+
 ### 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MixnUP&show_icons=true&theme=github_dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MixnUP&theme=github-dark" />
@@ -34,5 +66,10 @@ Cloudflare Workers & AI APIs & Cron
 ---
 
 ### 🧭 Connect with Me
-[Portfolio](https://nyxon.dev) • [LinkedIn](https://www.linkedin.com/in/adriane-loquinte-57087a264) • [Email](mailto:adriane.loquinte@gmail.com)
 
+[Portfolio](https://nyxon.dev) •
+[LinkedIn](https://www.linkedin.com/in/adriane-loquinte-57087a264) •
+[Email](mailto:adriane.loquinte@gmail.com)
+
+
+Just say the word.
